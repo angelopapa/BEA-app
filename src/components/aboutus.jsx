@@ -11,7 +11,7 @@ function Aboutus() {
             <div class="row">
                 <div class="col text-center">
                     <img src={catantos} alt="Cat" class="rounded-circle img-fluid mt-5 me-0" style={{'max-width': '200px', 'max-height': '200px'}}/>
-                    <p class='text-white' style={{'font-size': '20px'}}>Antoss</p>
+                    <p class='text-white' style={{'font-size': '20px'}}>Antos</p>
                 </div>
                 <div class="col text-center">
                     <img src={dogangp} alt="Dog" class="rounded-circle img-fluid justify-content-center mt-5 ms-0" style={{'max-width': '200px', 'max-height': '200px'}}/>
