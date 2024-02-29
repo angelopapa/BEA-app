@@ -2,17 +2,6 @@
 
 ![BEA-APP](https://github.com/angelopapa/BEA-app/assets/101093634/88aec1a7-3b6f-40d0-8bff-c9d953d35353)
 
-## HOW IT WORKS?
-
-![DEMO -->](https://drive.google.com/file/d/1fVbGBbuNnk2R_KOAbdwLscIRFtlbkbS4/view?usp=sharing)
-
-
-
-
-
-
-
-
 
 
 -----------------------------------------------------------------------------------------------
