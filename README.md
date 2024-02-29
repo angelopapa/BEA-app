@@ -4,7 +4,7 @@
 
 ## HOW IT WORKS?
 
-[![Anteprima del video]([https://link.al.tuo/video.jpg](https://drive.google.com/file/d/1fVbGBbuNnk2R_KOAbdwLscIRFtlbkbS4/view?usp=sharing))]([https://link.al.tuo/video](https://drive.google.com/file/d/1fVbGBbuNnk2R_KOAbdwLscIRFtlbkbS4/view?usp=sharing))
+![DEMO -->](https://drive.google.com/file/d/1fVbGBbuNnk2R_KOAbdwLscIRFtlbkbS4/view?usp=sharing)
 
 
 
